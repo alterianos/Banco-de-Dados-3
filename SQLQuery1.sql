@@ -1,2 +1,0 @@
-CREATE DATABASE BancoDadosFMU20212
-use  BancoDadosFMU20212
